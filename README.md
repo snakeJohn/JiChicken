@@ -6,11 +6,10 @@
   > quantu  
   > shadowsocks  
   >   
-> Mac合集  
+> Mac合集    
   > ssr  
   >   
-> [Win合集](https://github.com/snakeJohn/JiChicken/tree/main/Win%E5%90%88%E9%9B%86)
-  > netch  
+> [Win合集](https://github.com/snakeJohn/JiChicken/tree/main/Win%E5%90%88%E9%9B%86)  
   > ssr  
   > clash  
   > sstap  
