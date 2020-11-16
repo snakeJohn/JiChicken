@@ -4,9 +4,9 @@
 ### 步骤一  
 下载文件
 
-![](C:\Users\snake\Documents\GitHub\JiChicken\img\netch-01.jpg)
+![](https://github.com/snakeJohn/JiChicken/blob/main/img/netch-01.jpg)
 
-![](C:\Users\snake\Documents\GitHub\JiChicken\img\netch-02.jpg)
+![](https://github.com/snakeJohn/JiChicken/blob/main/img/netch-02.jpg)
 
 右键「以管理员身份运行」Netch.exe，点击「订阅」菜单，选择「管理订阅链接」；
 
