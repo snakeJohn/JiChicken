@@ -1,8 +1,8 @@
 # 圈x教程
 
-打开新安装的圈x后，第一步不是导入节点，而是
+打开新安装的圈x后  
 ## 1.导入全局配置
-这里推荐这个懒人包(因为我也没用过其他的)
+这里推荐这个懒人包(因为我也没用过其他的)  
 懒人包：[地址](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)
 
 导入方法 点开右下角蓝色圈圈，拉到最底下 
