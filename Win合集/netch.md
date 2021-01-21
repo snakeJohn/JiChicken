@@ -1,6 +1,8 @@
-# Windows平台Netch使用教程
-
-###### 更新地址： [链接](https://github.com/netchx/Netch/releases)
+# 第一部分：入门教程  
+教程开始（本教程由[**几鸡-学习助理**](https://j01.space/waf/rkk02) 赞助提供）
+### 第一步：下载  
+----[**下载地址**](https://github.com/netchx/Netch/releases) ----  
+  
 ### 步骤一  
 下载文件
 
