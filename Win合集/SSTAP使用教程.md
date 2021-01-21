@@ -1,9 +1,8 @@
-## 软件简介：
-
-> [SSTap](https://www.qcgzxw.cn/tag/sstap)全称SOCKSTap, 是一款利用虚拟网卡技术在[网络](https://www.qcgzxw.cn/tag/网络)层实现的代理工具。 [SSTap](https://www.qcgzxw.cn/tag/sstap)能在[网络](https://www.qcgzxw.cn/tag/网络)层拦截所有连接并转发给HTTP，SOCKS4，5 而无需对被代理的应用程序做任何修改或设置。 它能同时转发TCP, UDP数据包。 它非常适合于[游戏](https://www.qcgzxw.cn/tag/游戏)玩家使用。 享受你的[游戏](https://www.qcgzxw.cn/tag/游戏)时光！请使用[SSTap](https://www.qcgzxw.cn/tag/sstap)！
-
-**如觉得软件不错，请在文章底部扫码打赏支持我们！**
-
+# 第一部分：入门教程  
+教程开始（本教程由[**几鸡-学习助理**](https://j01.space/waf/rkk02) 赞助提供）
+### 第一步：下载  
+----[**下载地址**]() ----  
+  
 ## 使用说明：
 
 1. 打开SSTap-beta，找到里面的SSTap.exe应用程序，双击。（出现权限提示同意即可）
